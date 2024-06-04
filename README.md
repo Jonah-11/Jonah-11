@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jonah-11
-- 👀 I’m interested in artificial intelligence, coding, robotics and engineering.
+- 👋 Hi, I’m Jonathan Edwards
+- 👀 I’m interested in artificial intelligence, computer programming, robotics and engineering.
 - 🌱 I’m currently learning mechanical engineering.
-- 💞️ I’m looking to collaborate on robotics and coding.
+- 💞️ I’m looking to collaborate on robotics, computer programming and software development.
 - 📫 How to reach me via email edwardsjonathan457@gmail.com
 
 <!---
